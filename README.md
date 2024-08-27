@@ -7,7 +7,7 @@
 * Для третьего проекта задание находится в файле [TODO_MAP](homework-03-collections-map/TODO.md).
 * Для четвертого проекта задание находится в файле [TODO_MAP](homework-04-collections-search/TODO.md).
 
-## Requirements:
+### Requirements:
 * Maven
 * Lombok
 * Stream API
